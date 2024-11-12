@@ -1,7 +1,7 @@
 'use strict';
 
 
-const inc = (x) => ++x;
+const increm = (x) => ++x;
 
 
-module.exports = { inc };
+module.exports = { increm };
